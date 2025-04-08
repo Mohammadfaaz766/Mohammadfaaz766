@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammadfaaz766
 - 👀 I’m interested in graphic design and coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development
 
 
 <!---
